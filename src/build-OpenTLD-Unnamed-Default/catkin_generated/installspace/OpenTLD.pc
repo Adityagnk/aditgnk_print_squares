@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: OpenTLD
+Description: Description of OpenTLD
+Version: 0.0.0
+Cflags: 
+Libs: -L/usr/local/lib 
+Requires: 

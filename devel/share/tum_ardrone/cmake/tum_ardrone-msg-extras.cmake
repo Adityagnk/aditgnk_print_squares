@@ -1,0 +1,2 @@
+set(tum_ardrone_MESSAGE_FILES "/home/aditya/catkin_ws/src/Quadcopter/tum_ardrone/msg/filter_state.msg")
+set(tum_ardrone_SERVICE_FILES "/home/aditya/catkin_ws/src/Quadcopter/tum_ardrone/srv/SetReference.srv;/home/aditya/catkin_ws/src/Quadcopter/tum_ardrone/srv/SetMaxControl.srv;/home/aditya/catkin_ws/src/Quadcopter/tum_ardrone/srv/SetInitialReachDistance.srv;/home/aditya/catkin_ws/src/Quadcopter/tum_ardrone/srv/SetStayWithinDistance.srv;/home/aditya/catkin_ws/src/Quadcopter/tum_ardrone/srv/SetStayTime.srv")

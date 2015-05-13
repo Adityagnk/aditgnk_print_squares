@@ -1,0 +1,2 @@
+OpenTLD:Quad-Vision-GUI:Quadcopter/ardrone_autonomy:Quadcopter/quad_simulator:Quadcopter/tum_ardrone:Quadcopter/tum_simulator/cvg_sim_gazebo:Quadcopter/tum_simulator/cvg_sim_gazebo_plugins:Quadcopter/tum_simulator/cvg_sim_msgs:Quadcopter/tum_simulator/message_to_tf:Quadcopter/tum_simulator/tum_simulator:aditgnk_print_squares:quad
+-DCATKIN_DEVEL_PREFIX=/home/aditya/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/aditya/catkin_ws/install -G Unix Makefiles

@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -O3 -DNDEBUG   -shared -Wl,-soname,libhector_gazebo_ros_magnetic.so -o /home/aditya/catkin_ws/devel/lib/libhector_gazebo_ros_magnetic.so CMakeFiles/hector_gazebo_ros_magnetic.dir/src/gazebo_ros_magnetic.cpp.o 

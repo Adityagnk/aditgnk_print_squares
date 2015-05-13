@@ -1,0 +1,8 @@
+prefix=/home/aditya/catkin_ws/install
+
+Name: aditgnk_print_squares
+Description: Description of aditgnk_print_squares
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/aditya/catkin_ws/install/lib 
+Requires: 

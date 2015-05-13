@@ -1,0 +1,8 @@
+prefix=/home/aditya/catkin_ws/src/build-Quad-Vision-GUI-Unnamed-Default/devel
+
+Name: vision
+Description: Description of vision
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/aditya/catkin_ws/src/build-Quad-Vision-GUI-Unnamed-Default/devel/lib 
+Requires: 

@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "aditgnk_print_squares")
+set(aditgnk_print_squares_MAINTAINER "aditya <aditya@todo.todo>")
+set(aditgnk_print_squares_DEPRECATED "")
+set(aditgnk_print_squares_VERSION "0.0.0")
+set(aditgnk_print_squares_BUILD_DEPENDS "roscpp" "rospy" "std_msgs" "sensor_msgs" "cv_bridge" "image_transport")
+set(aditgnk_print_squares_RUN_DEPENDS "image_transport" "cv_bridge" "sensor_msgs" "roscpp" "rospy" "std_msgs")
+set(aditgnk_print_squares_BUILDTOOL_DEPENDS "catkin")

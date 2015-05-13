@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "quad_simulator")
+set(quad_simulator_MAINTAINER "krishna <krishna@todo.todo>")
+set(quad_simulator_DEPRECATED "")
+set(quad_simulator_VERSION "0.0.0")
+set(quad_simulator_BUILD_DEPENDS )
+set(quad_simulator_RUN_DEPENDS )
+set(quad_simulator_BUILDTOOL_DEPENDS "catkin")

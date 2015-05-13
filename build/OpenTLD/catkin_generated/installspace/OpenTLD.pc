@@ -1,0 +1,8 @@
+prefix=/home/aditya/catkin_ws/install
+
+Name: OpenTLD
+Description: Description of OpenTLD
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/aditya/catkin_ws/install/lib 
+Requires: 

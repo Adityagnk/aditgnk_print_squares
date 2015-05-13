@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "OpenTLD")
+set(OpenTLD_MAINTAINER "krishna <krishna@todo.todo>")
+set(OpenTLD_DEPRECATED "")
+set(OpenTLD_VERSION "0.0.0")
+set(OpenTLD_BUILD_DEPENDS "ardrone_autonomy")
+set(OpenTLD_RUN_DEPENDS "ardrone_autonomy")
+set(OpenTLD_BUILDTOOL_DEPENDS "catkin")

@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "vision")
+set(vision_MAINTAINER "krishna <krishna@todo.todo>")
+set(vision_DEPRECATED "")
+set(vision_VERSION "0.0.0")
+set(vision_BUILD_DEPENDS "ardrone_autonomy")
+set(vision_RUN_DEPENDS "ardrone_autonomy")
+set(vision_BUILDTOOL_DEPENDS "catkin")
